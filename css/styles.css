@@ -63,6 +63,7 @@ header {
   display: grid;
   grid-template-columns: auto 300px 300px;
   grid-gap: 1rem;
+  padding: 1rem;
 }
 
 .box:nth-child(1) {
@@ -123,6 +124,7 @@ section {
   grid-gap: 1.5rem;
   margin-top: 6rem;
   margin-bottom: 2rem;
+  padding: 1rem;
 }
 .card-container .card {
   background-color: #f1f0ed;
