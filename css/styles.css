@@ -122,6 +122,7 @@ section {
   grid-template-columns: repeat(auto-fit, minmax(23rem, 1fr));
   grid-gap: 1.5rem;
   margin-top: 6rem;
+  margin-bottom: 2rem;
 }
 .card-container .card {
   background-color: #f1f0ed;
@@ -136,7 +137,7 @@ section {
   height: 19.625rem;
   border-radius: 0.5rem 0.5rem 0 0;
   padding: 1.125rem;
-  box-shadow: 0 0.5rem 0.625rem white;
+  box-shadow: 0 0.5rem 0.625rem #fafafa;
 }
 .card-container .card .image-wrapper img {
   height: 100%;

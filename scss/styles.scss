@@ -129,6 +129,7 @@ section {
 	grid-template-columns: repeat(auto-fit, minmax(23rem, 1fr));
 	grid-gap: 1.5rem;
 	margin-top: 6rem;
+	margin-bottom: 2rem;
 
 	.card {
 		background-color: rgb(241, 240, 237);
@@ -143,7 +144,7 @@ section {
 			height: 19.625rem;
 			border-radius: 0.5rem 0.5rem 0 0;
 			padding: 1.125rem;
-			box-shadow: 0 0.5rem 0.625rem rgba($color: #fff, $alpha: 1);
+			box-shadow: 0 0.5rem 0.625rem rgba($color: #fafafa, $alpha: 1);
 
 			img {
 				height: 100%;
